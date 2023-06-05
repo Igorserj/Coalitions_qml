@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UserInterface.qml</file>
+        <file>Majority.mjs</file>
+        <file>Scripts.qml</file>
+        <file>Comfortaa-VariableFont_wght.ttf</file>
+        <file>static/Comfortaa-Bold.ttf</file>
+        <file>static/Comfortaa-Light.ttf</file>
+        <file>static/Comfortaa-Medium.ttf</file>
+        <file>static/Comfortaa-Regular.ttf</file>
+        <file>static/Comfortaa-SemiBold.ttf</file>
+    </qresource>
+</RCC>
